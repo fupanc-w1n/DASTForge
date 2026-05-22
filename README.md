@@ -240,7 +240,7 @@ npm run dev            # 开发：http://localhost:5173，自动反代 /api -> :
 
 随后集群内会拉取对应镜像并创建对应pod：
 
-![image-20260522170224804](https://fpc-mybucket.oss-cn-beijing.aliyuncs.com/images/image-20260522170224804.png)
+![image-20260522211437806](https://fpc-mybucket.oss-cn-beijing.aliyuncs.com/images/image-20260522211437806.png)
 
 创建任务：
 
